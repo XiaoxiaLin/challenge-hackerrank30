@@ -1,15 +1,8 @@
-# Playing here...
+# Trying to make coding a habit
 
-This is my attempt to keep semi-current with some languages while
-learning others, in this case my playing with the HackerRank 30
-Tutorial (beginner java), but in this case implementing the challenges
-in
+I am new to HackerRank. I have learnt Python during my master course in "Foundation of Data Science", but I have never learnt it properly (from the basic).I found this HackerRank 30 days chanllege, and I thought "It seems fun, why not taking the challenge?". Then I came across to this github with 30 days challenge and some implementations in different programing languages, and I thought "why not do the same? Maybe... just maybe I will master Github after 30 days".   
 
-+ Java
-+ JavaScript
-+ Python
-+ Clojure
-+ C++
+So here I am!! 
 
 The directories are numbered by the challenge. There should be a
 readme, and potentially a script file of some sort to run, or compile
