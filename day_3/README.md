@@ -1,12 +1,12 @@
-#Day 3: Conditionals
+# Day 3: Conditionals
 
 https://www.hackerrank.com/challenges/30-conditional-statements
 
-##Objective 
+## Objective 
 
 In this challenge, we're getting started with conditional statements. Check out the Tutorial tab for learning materials and an instructional video!
 
-##Task 
+## Task 
 
 Given an integer, , perform the following conditional actions:
 
@@ -17,7 +17,7 @@ If n is even and greater than 20 , print Not Weird
 
 Complete the stub code provided in your editor to print whether or not  is weird.
 
-##Input Format
+## Input Format
 
 A single line containing a positive integer, .
 
