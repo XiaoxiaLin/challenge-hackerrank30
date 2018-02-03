@@ -1,0 +1,4 @@
+
+#!/bin/sh
+
+echo -e " '2' " | python loops.py 
