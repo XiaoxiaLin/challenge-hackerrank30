@@ -20,7 +20,7 @@ To help you learn by example and complete this challenge, much of the code is pr
 
 Note: Do not remove or alter the stub code in the editor.
 
-##Input Format
+## Input Format
 
 
 ## Output Format
