@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/symmetric-difference/problem
+https://www.hackerrank.com/challenges/symmetric-difference/problem
 
 ## Objective 
 Today, we're learning about a new data type: sets.
