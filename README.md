@@ -8,7 +8,7 @@ The directories are numbered by the challenge. There should be a
 readme, and potentially a script file of some sort to run, or compile
 and run the code.
 
-#30 Days of Code
+# 30 Days of Code
 
 https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
