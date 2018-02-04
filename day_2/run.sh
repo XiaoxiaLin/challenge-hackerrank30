@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo -e "str(12.00)\nstr(20)\nstr(8)\n)" | python operators.py
+echo -e 12.00 '\n' 20 '\n' 8 '\n' | python operators.py

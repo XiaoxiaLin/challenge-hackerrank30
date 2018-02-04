@@ -1,0 +1,1 @@
+echo -e 2 "\n" Hacker "\n" Rank | python3 string_review.py

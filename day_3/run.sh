@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "str(20)" | python conditional_statements.py
+echo '20' | python conditional_statements.py
