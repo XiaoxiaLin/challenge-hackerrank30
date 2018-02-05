@@ -16,6 +16,7 @@ Print the elements of array A in reverse order as a single line of space-separat
 
 ## Sample Input
 4
+
 1 4 3 2
 
 ## Sample Output
