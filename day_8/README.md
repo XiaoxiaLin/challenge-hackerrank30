@@ -1,14 +1,14 @@
-#Day 8: Dictionaries and Maps
+# Day 8: Dictionaries and Maps
 
 https://www.hackerrank.com/challenges/30-dictionaries-and-maps
 
-Objective 
+## Objective 
 
 Today, we're learning about Key-Value pair mappings using a Map or
 Dictionary data structure. Check out the Tutorial tab for learning
 materials and an instructional video!
 
-Task 
+## Task 
 
 Given names and phone numbers, assemble a phone book that maps
 friends' names to their respective phone numbers. You will then be
@@ -18,7 +18,7 @@ form name=phonenumber) or notfound if there is no entry for name.
 
 Note: Your phone book should be a Dictionary/Map/HashMap data structure.
 
-Input Format
+## Input Format
 
 The first line contains an integer, n , denoting the number of entries
 in the phone book.  Each of the subsequent lines describes an entry in
@@ -32,15 +32,12 @@ must continue reading lines until there is no more input.
 Note: Names consist of lowercase English letters and are first names
 only.
 
-Constraints
-
-Output Format
+## Output Format
 
 On a new line for each query, print not found if the name has no corresponding
 entry in the phone book; otherwise, print the full name and phonenumber in the format name=phonenumber.
 
-Sample Input
-
+## Sample Input
 3
 sam 99912222
 tom 11122222
@@ -48,13 +45,13 @@ harry 12299933
 sam
 edward
 harry
-Sample Output
 
+## Sample Output
 sam=99912222
 Not found
 harry=12299933
 
-Explanation
+## Explanation
 N = 3
 
 We add the n subsequent (Key,Value) pairs to our map so it looks like
