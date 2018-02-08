@@ -8,8 +8,7 @@ def my_factorial(n):
     # Complete this function
     if n <= 1:
         return 1
-    else:
-        return n* my_factorial(n-1)
+    return n* my_factorial(n-1)
 
 
 if __name__ == "__main__":
