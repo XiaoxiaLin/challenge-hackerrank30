@@ -36,7 +36,7 @@ Constraints
 
 4 <= |first name|, |lastname| < 10
 
-|id| 7
+|id|= 7
 
 0 <= score, average <= 100
 

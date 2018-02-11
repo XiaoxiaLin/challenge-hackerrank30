@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo -e Heraldo Memelli 8135627 "\n" 2 "\n" 100 80 | python3 inherence.py

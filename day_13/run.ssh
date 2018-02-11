@@ -1,0 +1,2 @@
+echo -e The Alchemist "\n" Paulo Coelho "\n" 248 | python3 abstract_classes.py
+

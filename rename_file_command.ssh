@@ -13,5 +13,6 @@ day_10 --> day_10
 day_30 --> day_30
 
 """ 
+#!/bin/sh
 
-$ for f in day_[0-9]; do mv $f `printf day_%02d ${f#day_}`; done
+for f in day_[0-9]; do mv $f `printf day_%02d ${f#day_}`; done
