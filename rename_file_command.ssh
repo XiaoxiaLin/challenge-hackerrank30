@@ -1,3 +1,4 @@
+""" 
 Objective: rename the file name as following: 
 
 day_0 --> day_00
@@ -10,5 +11,7 @@ day_10 --> day_10
 :
 :
 day_30 --> day_30
+
+""" 
 
 $ for f in day_[0-9]; do mv $f `printf day_%02d ${f#day_}`; done
