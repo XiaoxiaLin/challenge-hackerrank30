@@ -1,24 +1,16 @@
 #!/bin/python3
+    a = int(S)
 
 # day 17: more exceptions
 
-
-class InputError(Exception):
-    pass
-
-
 class Calculator:
-
-    def __init__(self):
-        pass
-
-    def power(self, n, p):
+    @staticmethod
+    def power(n, p):
         if n < 0 or p < 0:
-            raise InputError("n and p should be non-negative")
-        else:
-            return n**p
+            raise ValueError('n and p should be non-negative')
+        return n ** p
 
-myCalculator = Calculator()
+myCalculator=Calculator()
 T = int(input())
 for i in range(T):
     n, p = map(int, input().split())
