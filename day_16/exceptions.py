@@ -5,7 +5,6 @@
 S = input().strip()
 
 try:
-    n = int(S)
-    print(n)
+    print (int(S))
 except:
-    print("Bad String")
+    print ("Bad String")
