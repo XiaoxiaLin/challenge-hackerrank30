@@ -1,0 +1,2 @@
+echo -e 4 "\n" 2 "\n" 3 "\n" 4 "\n" 1 | python3 linked_list.py
+

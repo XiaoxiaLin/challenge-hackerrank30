@@ -1,0 +1,1 @@
+echo -e 3"\n"1 2 5 |python3 scope.py
