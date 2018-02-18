@@ -18,14 +18,13 @@ A char dequeueCharacter() method that dequeues and returns the first character i
 
 You do not need to read anything from stdin. The locked stub code in your editor reads a single line containing string s. It then calls the methods specified above to pass each character to your instance variables.
 
-Constraints
-
-s is composed of lowercase English letters.
+**Constraints**:  s is composed of lowercase English letters.
 
 ### Output Format
 
 You are not responsible for printing any output to stdout. 
 If your code is correctly written and s is a palindrome, the locked stub code will print The word s is a palindrome; otherwise, it will print it is not
 
-Sample Input: racecar
-Sample Output: The word, racecar, is a palindrome.
+**Sample Input**: racecar
+
+**Sample Output**: The word, racecar, is a palindrome.
