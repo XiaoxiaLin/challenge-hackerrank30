@@ -1,8 +1,6 @@
-# Day 20: Sorting
+# Day 20: [Sorting](https://www.hackerrank.com/challenges/30-sorting)
 
-https://www.hackerrank.com/challenges/30-sorting
-
-Objective 
+## Objective 
 
 Today, we're discussing a simple sorting algorithm called Bubble Sort. Check out the Tutorial tab for learning materials and an instructional video!
 
@@ -26,7 +24,7 @@ for (int i = 0; i < n; i++) {
     }
 }
 
-Task 
+## Task 
 
 Given an array, a, of size n containing distinct elements, sort array a in ascending order using the Bubble Sort algorithm above. Once sorted, print the following 3 lines:
 
@@ -41,16 +39,16 @@ where  is the last element in the sorted array.
 
 Hint: To complete this challenge, you will need to add a variable that keeps a running tally of all swaps that occur during execution.
 
-Input Format
+### Input Format
 
 The first line contains an integer, n, denoting the number of elements in array a. 
 The second line contains n space-separated integers describing a, where the ith integer is a[i].
 
-Constraints
+### Constraints
 
 0 <= n <= 600
  
-Output Format
+### Output Format
 
 There should be  lines of output:
 
@@ -61,7 +59,7 @@ where  is the first element in the sorted array.
  
 where  is the last element in the sorted array.
 
-Sample Input 0
+### Sample Input 0
 
 3
 1 2 3
@@ -71,10 +69,13 @@ Sample Output 0
 Array is sorted in 0 swaps.
 First Element: 1
 Last Element: 3
-Sample Input 1
+
+
+### Sample Input 1
 
 3
 3 2 1
+
 Sample Output 1
 
 Array is sorted in 3 swaps.
