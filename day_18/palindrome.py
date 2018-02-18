@@ -11,7 +11,7 @@ class Solution:
         self.stack.append(ch)
 
     def popCharacter(self):
-        ch = self.stack.pop()
+        ch = self.stack.pop()  
         return ch
 
     def enqueueCharacter(self, ch):

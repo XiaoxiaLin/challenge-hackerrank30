@@ -1,0 +1,1 @@
+echo -e racecar |python3 palindrome.py
